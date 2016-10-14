@@ -1,0 +1,20 @@
+<!-- Articles Feed controller Start -->
+</br>
+<div class="row" ng-controller="ArticleFeedAppController">
+  <blockquote class="blockquote">
+    <p class="m-b-0">2.  Article list </p>
+  </blockquote>
+  <div class="articles" ng-repeat="articleFeed in articleFeedData">
+    <div class="col-xs-12 col-sm-6 col-md-4 panel well">
+      <div class="article-title"><span>{{articleFeed.Title}}</span></div>
+      <img ng-src="http://static.ctv.ca/get-bm-attachment/636110986237276118/{{articleFeed.ThumbnailId}}" class="img-responsive">
+      <div class="footer">
+        <a class="description" href="{{articleFeed.Url}}">
+          {{articleFeed.Description}}</br>
+        </a>
+        <span class="date">{{articleFeed.CreateDate | date:'MMMM d, y'}}</span>
+      </div>
+    </div>
+
+  </div>
+</div><!-- Articles Feed controller Start -->

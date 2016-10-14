@@ -1,0 +1,28 @@
+.articles .panel {
+  min-height: 450px;
+  background-color: #ffffff;
+}
+.article-title {
+  font-size: 12px;
+  min-height: 30px;
+  margin:10px 0px;
+  text-align: left;
+}
+.articles .footer .description {
+  right: 15px;
+  float: left;
+  min-width: 100%;
+  text-align: justify;
+  font-weight: 500;
+  font-size: 14px;
+  left: 15px;
+  z-index: 10;
+  padding: 10px;
+  color: #000;
+  padding-left: 5px;
+}
+.articles .footer .date {
+  padding: 0px 4px;
+  color: #959595;
+  font-size: 12px;
+}

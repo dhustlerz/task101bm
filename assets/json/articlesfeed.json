@@ -1,0 +1,103 @@
+{
+  "CurrentPage": 1,
+  "PageSize": 6,
+  "TotalPages": 2,
+  "TotalItems": 7,
+  "Items": [
+    {
+      "CreateDate": "2016-10-13T02:58:18",
+      "Description": "President Kirkman makes it clear who the Commander in Chief is after disagreeing with General Cochrane on how to handle Algerian air space.",
+      "DocType": "imagelink",
+      "Keywords": [
+        ""
+      ],
+      "Id": "2d1385b9-4089-497e-a63b-40cfad02cdef",
+      "Indicator": "True",
+      "Tags": [
+        ""
+      ],
+      "Site": "ctv.ca",
+     "Season": "",
+      "SubTitle": "",
+      "ThumbnailId": "6b2a0e75-0f51-40c4-bfa8-ef9c057efdef",
+      "ThumbnailUrl": "http://static.ctv.ca/get-bm-attachment/636119680200342930/6b2a0e75-0f51-40c4-bfa8-ef9c057efdef",
+      "Title": "'Designated Survivor' Must-See Moments: Kirkman Fires General Cochrane ",
+      "Url": "http://www.ctv.ca/Designated-Survivor/Video/S1E4-Clips-Kirkman-Fires-General-Cochrane-vid971732",
+      "UrlText": "Watch Now",
+      "IsPublished": true,
+      "Target": "_self",
+      "TrackingId": ""
+    },
+{
+      "CreateDate": "2016-10-03T01:30:58",
+      "Description": "With just a week left before the video submission deadline, the ground-breaking project 'CanadaInADay' is already making waves.",
+      "DocType": "imagelink",
+      "Keywords": [
+        ""
+      ],
+      "Id": "afad31e3-9469-4eaf-bf6f-b2e97321c971",
+      "Indicator": "false",
+      "Tags": [
+        ""
+      ],
+      "Site": "ctv.ca",
+      "Season": "",
+      "SubTitle": "",
+      "ThumbnailId": "c0eaf4d3-3f34-41a4-a9cb-5fb9c08bdd0b",
+      "ThumbnailUrl": "http://static.ctv.ca/get-bm-attachment/636110990779975290/c0eaf4d3-3f34-41a4-a9cb-5fb9c08bdd0b",
+      "Title": "CTV's ‘Canada In A Day’ Tops 11,500 Video Submissions Ahead of October 10 Upload Deadline",
+      "Url": "/Show-News/Latest-News/Canada-In-A-Day-Tops-11500-Video-Submissions-Ahead",
+      "UrlText": "More",
+      "IsPublished": true,
+      "Target": "_self"
+    },
+    {
+      "CreateDate": "2016-10-12T03:37:06",
+      "Description": "Find out how to apply for Season 5!",
+      "DocType": "imagelink",
+      "Keywords": [
+        ""
+      ],
+      "Id": "ab7e9e67-3378-43dc-be41-404f916338e3",
+      "Indicator": "False",
+      "Tags": [
+        ""
+      ],
+      "Site": "ctv.ca",
+      "Season": "",
+      "SubTitle": "",
+      "ThumbnailId": "048ed011-b596-4933-bbc6-eaebcd1c2613",
+      "ThumbnailUrl": "http://static.ctv.ca/get-bm-attachment/636119680114695806/048ed011-b596-4933-bbc6-eaebcd1c2613",
+      "Title": "'The Amazing Race Canada' Casting Now Open!",
+      "Url": "http://theamazingracecanada.ctv.ca/news/casting-for-season-5-of-amazing-race-canada-now-op",
+      "UrlText": "Apply Now",
+      "IsPublished": true,
+      "Target": "_blank",
+      "TrackingId": ""
+    },
+    {
+      "CreateDate": "2016-10-13T03:01:52",
+      "Description": "Dakota Fanning dishes on a recent trip to Atlantic City, where she dressed up as bride-to-be on her bachelorette.",
+      "DocType": "imagelink",
+      "Keywords": [
+        ""
+      ],
+      "Id": "f35fcc3d-d1fb-45b9-8d6d-ebc861129883",
+      "Indicator": "True",
+      "Tags": [
+        ""
+      ],
+      "Site": "ctv.ca",
+      "Season": "",
+      "SubTitle": "",
+      "ThumbnailId": "4106fc2f-1db9-4568-b784-392ff9b2634d",
+      "ThumbnailUrl": "http://static.ctv.ca/get-bm-attachment/636119680245896576/4106fc2f-1db9-4568-b784-392ff9b2634d",
+      "Title": "Fallon's Must-See Moments: Dakota Fanning on Her Atlantic City 'Bachelorette' ",
+      "Url": "http://www.ctv.ca/LaughOutLoud/Video/S4E18-Clips-Dakota-Fanning-on-Her-Atlantic-City-Bachelorette-vid971521",
+      "UrlText": "Watch Now",
+      "IsPublished": true,
+      "Target": "_self",
+      "TrackingId": ""
+    }
+  ]
+}

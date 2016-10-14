@@ -1,0 +1,614 @@
+{
+  "Items": [
+    {
+     "Id": 964478,
+     "Name": "Clips: 'Fast Family Feud' with Nathan Lane",
+      "ShortDesc": "Jimmy and Nathan Lane share a few laughs while competing in a “Family Feud” spinoff.",
+      "Type": "segment",
+     " Media": {
+        "Id": 31695,
+        "Name": "The Tonight Show Starring Jimmy Fallon"
+      },
+    "class":"active",
+     "Season": {
+        "Id": 68960,
+        "Name": "Season 4",
+        "Number": 4
+      },
+      "Episode": 10,
+      "Images": [
+        {
+          "Type": "thumbnail",
+          "Url": "http://images2.9c9media.com/image_asset/2016_10_3_624d11d8-2bc8-493f-8519-f791bfa6db81_png_1920x1080.jpg",
+          "Width": 1920,
+          "Height": 1080
+        }
+      ],
+      "Authentication": {
+        "Required": false,
+        "Resources": null
+      }
+    },
+    {
+      "Id": 963405,
+      "Name": "Clips: First Day of Spy School",
+      "ShortDesc": "Alex and Ryan face some animosity on their first day of training.",
+      "Type": "segment",
+      "Media": {
+        "Id": 35037,
+        "Name": "Quantico"
+      },
+      "class":"NULL",
+      "Season": {
+        "Id": 68957,
+        "Name": "Season 2",
+        "Number": 2
+      },
+      "Episode": 2,
+      "Images": [
+        {
+          "Type": "thumbnail",
+          "Url": "http://images2.9c9media.com/image_asset/2016_9_30_7164114c-8695-42af-84b1-11e706981225_png_1920x1080.jpg",
+          "Width": 1920,
+          "Height": 1080
+        }
+      ],
+      "Authentication": {
+        "Required": false,
+        "Resources": null
+      }
+    },
+    {
+      "Id": 963361,
+      "Name": "Clips: A Young Father Marcus Faces His Demons",
+      "ShortDesc": "As a child, Father Marcus Keane had an early experience with exorcism that shaped him to become the expert that he is today.",
+      "Type": "segment",
+      "Media": {
+        "Id": 37882,
+        "Name": "The Exorcist"
+      },
+      "class":"NULL",
+      "Season": {
+        "Id": 68011,
+        "Name": "Season 1",
+        "Number": 1
+      },
+      "Episode": 2,
+      "Images": [
+        {
+          "Type": "thumbnail",
+          "Url": "http://images2.9c9media.com/image_asset/2016_9_30_c12d0d1f-b492-454c-9e3a-f507558c2bc6_png_1920x1080.jpg",
+          "Width": 1920,
+          "Height": 1080
+        }
+      ],
+      "Authentication": {
+        "Required": false,
+        "Resources": null
+      }
+    },
+    {
+      "Id": 963176,
+      "Name": "Clips: A Second Chance",
+      "ShortDesc": "Hayes Morrison meets with convicted murder Odell Dwyer in prison to discuss his case.",
+      "Type": "segment",
+      "Media": {
+        "Id": 37896,
+        "Name": "Conviction"
+      },
+      "class":"NULL",
+      "Season": {
+        "Id": 68023,
+        "Name": "Season 1",
+        "Number": 1
+      },
+      "Episode": 1,
+      "Images": [
+        {
+          "Type": "thumbnail",
+          "Url": "http://images2.9c9media.com/image_asset/2016_9_30_f7b97ef6-a598-47e8-ad8e-b814fd979ee4_png_1920x1080.jpg",
+          "Width": 1920,
+          "Height": 1080
+        }
+      ],
+      "Authentication": {
+        "Required": false,
+        "Resources": null
+      }
+    },
+    {
+      "Id": 963238,
+      "Name": "Clips: Connor Takes A Stand",
+      "ShortDesc": "Connor stands up for his client, Ms. Crowley, after she is questioned her about her relationship with her dead husband.",
+      "Type": "segment",
+      "Media": {
+        "Id": 32149,
+        "Name": "How to Get Away With Murder"
+      },
+      "class":"NULL",
+      "Season": {
+        "Id": 68948,
+        "Name": "Season 3",
+        "Number": 3
+      },
+      "Episode": 2,
+      "Images": [
+        {
+          "Type": "thumbnail",
+          "Url": "http://images2.9c9media.com/image_asset/2016_9_30_3c5aa2b1-cb5e-4938-b630-82e414dde294_png_1920x1080.jpg",
+          "Width": 1920,
+          "Height": 1080
+        }
+      ],
+      "Authentication": {
+        "Required": false,
+        "Resources": null
+      }
+    },
+    {
+      "Id": 963063,
+      "Name": "Clips: Forces You Can’t Begin to Understand",
+      "ShortDesc": "Father Tomas Ortega goes to Father Marcus Keane to understand the vision of evil he’s seen but is met with hostility.",
+      "Type": "segment",
+      "Media": {
+        "Id": 37882,
+        "Name": "The Exorcist"
+      },
+      "class":"NULL",
+      "Season": {
+        "Id": 68011,
+        "Name": "Season 1",
+        "Number": 1
+      },
+      "Episode": 1,
+      "Images": [
+        {
+          "Type": "thumbnail",
+          "Url": "http://images2.9c9media.com/image_asset/2016_9_30_9af73996-7dc2-4b95-befa-aaf05c06cd65_png_1920x1080.jpg",
+          "Width": 1920,
+          "Height": 1080
+        }
+      ],
+      "Authentication": {
+        "Required": false,
+        "Resources": null
+      }
+    },
+    {
+      "Id": 963032,
+      "Name": "Clips: Margot Robbie Gives Jimmy a Temporary Tattoo",
+      "ShortDesc": "The “Suicide Squad” actress talks about tattooing her costars and gives Jimmy his first (temporary) tattoo using her own drawing.",
+      "Type": "segment",
+      "Media": {
+        "Id": 31695,
+        "Name": "The Tonight Show Starring Jimmy Fallon"
+      },
+      "class":"NULL",
+      "Season": {
+        "Id": 68960,
+        "Name": "Season 4",
+        "Number": 4
+      },
+      "Episode": 9,
+      "Images": [
+        {
+          "Type": "thumbnail",
+          "Url": "http://images2.9c9media.com/image_asset/2016_9_30_785a761d-689b-44c0-939e-32456f672242_png_1920x1080.jpg",
+          "Width": 1920,
+          "Height": 1080
+        }
+      ],
+      "Authentication": {
+        "Required": false,
+        "Resources": null
+      }
+    },
+    {
+      "Id": 962222,
+      "Name": "Clips: Alex Goes To Court",
+      "ShortDesc": "Alex is blindsided by his charges but how will he plead?",
+      "Type": "segment",
+      "Media": {
+        "Id": 30033,
+        "Name": "Grey's Anatomy"
+      },
+      "class":"NULL",
+      "Season": {
+        "Id": 68947,
+        "Name": "Season 13",
+        "Number": 13
+      },
+      "Episode": 2,
+      "Images": [
+        {
+          "Type": "thumbnail",
+          "Url": "http://images2.9c9media.com/image_asset/2016_9_29_3be338b8-2bca-4b46-ae0a-50cf9423f178_png_1920x1080.jpg",
+          "Width": 1920,
+          "Height": 1080
+        }
+      ],
+      "Authentication": {
+        "Required": false,
+        "Resources": null
+      }
+    },
+    {
+      "Id": 962501,
+      "Name": "Clips: President Kirkman's Disastrous Visit to the Capitol",
+      "ShortDesc": "Things go downhill during President Kirkman's first visit to the site of the attack.",
+      "Type": "segment",
+      "Media": {
+        "Id": 37895,
+        "Name": "Designated Survivor"
+      },
+      "class":"NULL",
+      "Season": {
+        "Id": 68024,
+        "Name": "Season 1",
+        "Number": 1
+      },
+      "Episode": 2,
+      "Images": [
+        {
+          "Type": "thumbnail",
+          "Url": "http://images2.9c9media.com/image_asset/2016_9_29_dcc466f7-2119-4d81-8c6a-e316f2502fec_png_1920x1080.jpg",
+          "Width": 1920,
+          "Height": 1080
+        }
+      ],
+      "Authentication": {
+        "Required": false,
+        "Resources": null
+      }
+    },
+    {
+      "Id": 961936,
+      "Name": "Clips: Miley Cyrus Fills in for Ellen",
+      "ShortDesc": "Miley steps in as host of “The Ellen DeGeneres Show” and kicks things off in true Ellen style.",
+      "Type": "segment",
+      "Media": {
+        "Id": 29970,
+        "Name": "The Ellen DeGeneres Show"
+      },
+      "class":"NULL",
+      "Season": {
+        "Id": 68941,
+        "Name": "Season 14",
+        "Number": 14
+      },
+      "Episode": 18,
+      "Images": [
+        {
+          "Type": "thumbnail",
+          "Url": "http://images2.9c9media.com/image_asset/2016_9_29_2056be63-f2e6-4e76-865f-9dc1dd679d7b_png_1920x1080.jpg",
+          "Width": 1920,
+          "Height": 1080
+        }
+      ],
+      "Authentication": {
+        "Required": false,
+        "Resources": null
+      }
+    },
+    {
+      "Id": 961693,
+      "Name": "Clips: 'First Textual Experience' with Sting",
+      "ShortDesc": "It's time to dim the lights as Sting and Jimmy sing embarrassing, real-life text exchanges between guys and girls.",
+      "Type": "segment",
+      "Media": {
+        "Id": 31695,
+        "Name": "The Tonight Show Starring Jimmy Fallon"
+      },
+      "class":"NULL",
+      "Season": {
+        "Id": 68960,
+        "Name": "Season 4",
+        "Number": 4
+      },
+      "Episode": 8,
+      "Images": [
+        {
+          "Type": "thumbnail",
+          "Url": "http://images2.9c9media.com/image_asset/2016_9_29_6289cf10-688a-0134-8076-34b52f6f1279_png_1920x1080.jpg",
+          "Width": 1920,
+          "Height": 1080
+        }
+      ],
+      "Authentication": {
+        "Required": false,
+        "Resources": null
+      }
+    },
+    {
+      "Id": 961590,
+      "Name": "Hayley Atwell on showing her acting diversity in ‘Conviction’",
+      "ShortDesc": "Hayley Atwell drops by to chat about new series ‘Conviction,’ and what viewers can expect of her new on-screen role.",
+      "Type": "segment",
+      "Media": {
+        "Id": 38768,
+        "Name": "Your Morning"
+      },
+      "class":"NULL",
+      "Season": {
+        "Id": 69055,
+        "Name": "2016-2017",
+        "Number": 1
+      },
+      "Episode": null,
+      "Images": [
+        {
+          "Type": "thumbnail",
+          "Url": "http://images2.9c9media.com/image_asset/2016_9_29_b48ac090-6875-0134-01b7-10604ba4c9b1_jpg_1529x860.jpg",
+          "Width": 1529,
+          "Height": 860
+        }
+      ],
+      "Authentication": {
+        "Required": false,
+        "Resources": null
+      }
+    },
+    {
+      "Id": 961006,
+      "Name": "Clips: Michael Phelps Teaches 'Average Andy' How To Swim",
+      "ShortDesc": "'Average Andy' joins Olympic swimmer Michael Phelps in the pool.",
+      "Type": "segment",
+      "Media": {
+        "Id": 29970,
+        "Name": "The Ellen DeGeneres Show"
+      },
+      "class":"NULL",
+      "Season": {
+        "Id": 68941,
+        "Name": "Season 14",
+        "Number": 14
+      },
+      "Episode": 17,
+      "Images": [
+        {
+          "Type": "thumbnail",
+          "Url": "http://images2.9c9media.com/image_asset/2016_9_28_a02ac550-67c9-0134-802f-34b52f6f1279_png_1920x1080.jpg",
+          "Width": 1920,
+          "Height": 1080
+        }
+      ],
+      "Authentication": {
+        "Required": false,
+        "Resources": null
+      }
+    },
+    {
+      "Id": 961038,
+      "Name": "Clips: Miley and Alicia Sing Their Case For Darby Walker",
+      "ShortDesc": "Judges Miley Cyrus and Alicia Keys take the stage in their bid for contestant Darby Walker.",
+      "Type": "segment",
+      "Media": {
+        "Id": 30024,
+        "Name": "The Voice"
+      },
+      "class":"NULL",
+      "Season": {
+        "Id": 68963,
+        "Name": "Season 11",
+        "Number": 11
+      },
+      "Episode": 4,
+      "Images": [
+        {
+          "Type": "thumbnail",
+          "Url": "http://images2.9c9media.com/image_asset/2016_9_28_a35978f0-67df-0134-0185-10604ba4c9b1_png_1920x1080.jpg",
+          "Width": 1920,
+          "Height": 1080
+        }
+      ],
+      "Authentication": {
+        "Required": false,
+        "Resources": null
+      }
+    },
+    {
+      "Id": 960997,
+      "Name": "Clips: Can Jack and Rebecca Work Through Their Issues?",
+      "ShortDesc": "With family life and Jack's drinking taking a toll on their relationship, Rebecca has some stern words for Jack.",
+      "Type": "segment",
+      "Media": {
+        "Id": 37880,
+        "Name": "This Is Us"
+      },
+      "class":"NULL",
+      "Season": {
+        "Id": 68009,
+        "Name": "Season 1",
+        "Number": 1
+      },
+      "Episode": 2,
+      "Images": [
+        {
+          "Type": "thumbnail",
+          "Url": "http://images2.9c9media.com/image_asset/2016_9_28_5cf0bd00-67cb-0134-0183-10604ba4c9b1_png_1920x1080.jpg",
+          "Width": 1920,
+          "Height": 1080
+        }
+      ],
+      "Authentication": {
+        "Required": false,
+        "Resources": null
+      }
+    },
+    {
+      "Id": 960975,
+      "Name": "Clips: Is Kate Hudson Making an Album?",
+      "ShortDesc": "The actress says music is her life and talks about putting out her own record.",
+      "Type": "segment",
+      "Media": {
+        "Id": 31695,
+        "Name": "The Tonight Show Starring Jimmy Fallon"
+      },
+      "class":"NULL",
+      "Season": {
+        "Id": 68960,
+        "Name": "Season 4",
+        "Number": 4
+      },
+      "Episode": 7,
+      "Images": [
+        {
+          "Type": "thumbnail",
+          "Url": "http://images2.9c9media.com/image_asset/2016_9_28_cb125970-67c6-0134-802b-34b52f6f1279_png_1920x1080.jpg",
+          "Width": 1920,
+          "Height": 1080
+        }
+      ],
+      "Authentication": {
+        "Required": false,
+        "Resources": null
+      }
+    },
+    {
+      "Id": 960394,
+      "Name": "Clips: Shawn Mendes Shows Off His Tattoo",
+      "ShortDesc": "Shawn Mendes talks about selling out Madison Square Garden and explains the personal meaning behind his first tattoo.",
+      "Type": "segment",
+      "Media": {
+        "Id": 29970,
+        "Name": "The Ellen DeGeneres Show"
+      },
+      "class":"NULL",
+      "Season": {
+        "Id": 68941,
+        "Name": "Season 14",
+        "Number": 14
+      },
+      "Episode": 16,
+      "Images": [
+        {
+          "Type": "thumbnail",
+          "Url": "http://images2.9c9media.com/image_asset/2016_9_27_65755b20-6719-0134-7ff2-34b52f6f1279_png_1920x1080.jpg",
+          "Width": 1920,
+          "Height": 1080
+        }
+      ],
+      "Authentication": {
+        "Required": false,
+        "Resources": null
+      }
+    },
+    {
+      "Id": 960399,
+      "Name": "Clips: Blake and Adam Go Head-to-Head For Bindi Liebowitz",
+      "ShortDesc": "Judges Blake and Adam make their case for singer Bindi Liebowitz after her powerful rendition of “Bust Your Windows” by Jazmine Sullivan.",
+      "Type": "segment",
+      "Media": {
+        "Id": 30024,
+        "Name": "The Voice"
+      },
+      "class":"NULL",
+      "Season": {
+        "Id": 68963,
+        "Name": "Season 11",
+        "Number": 11
+      },
+      "Episode": 3,
+      "Images": [
+        {
+          "Type": "thumbnail",
+          "Url": "http://images2.9c9media.com/image_asset/2016_9_27_836bcae0-6728-0134-7ffd-34b52f6f1279_png_1920x1080.jpg",
+          "Width": 1920,
+          "Height": 1080
+        }
+      ],
+      "Authentication": {
+        "Required": false,
+        "Resources": null
+      }
+    },
+    {
+      "Id": 960244,
+      "Name": "Clips: Gina Rodriguez's Alter Ego Cutz Raps Nicki Minaj's 'Super Bass'",
+      "ShortDesc": "Gina Rodriguez gives the “Tonight Show” audience a taste of her college alter ego, Cutz, with a cover of Nicki Minaj's SuperBass.",
+      "Type": "segment",
+      "Media": {
+        "Id": 31695,
+        "Name": "The Tonight Show Starring Jimmy Fallon"
+      },
+      "class":"NULL",
+      "Season": {
+        "Id": 68960,
+        "Name": "Season 4",
+        "Number": 4
+      },
+      "Episode": 6,
+      "Images": [
+        {
+          "Type": "thumbnail",
+          "Url": "http://images2.9c9media.com/image_asset/2016_9_27_83ec26a0-670f-0134-7fec-34b52f6f1279_png_1920x1080.jpg",
+          "Width": 1920,
+          "Height": 1080
+        }
+      ],
+      "Authentication": {
+        "Required": false,
+        "Resources": null
+      }
+    },
+    {
+      "Id": 959718,
+      "Name": "Clips: Will the Guys Sell Their Technology to the Army?",
+      "ShortDesc": "The Air Force is interested in buying Howard and Leonard's invention, but Sheldon is quick to put his foot down.",
+      "Type": "segment",
+      "Media": {
+        "Id": 29964,
+        "Name": "The Big Bang Theory"
+      },
+      "class":"NULL",
+      "Season": {
+        "Id": 68928,
+        "Name": "Season 10",
+        "Number": 10
+      },
+      "Episode": 2,
+      "Images": [
+        {
+          "Type": "thumbnail",
+          "Url": "http://images2.9c9media.com/image_asset/2016_9_26_58c02af0-6662-0134-010c-10604ba4c9b1_png_1920x1080.jpg",
+          "Width": 1920,
+          "Height": 1080
+        }
+      ],
+      "Authentication": {
+        "Required": false,
+        "Resources": null
+      }
+    },
+    {
+      "Id": 959459,
+      "Name": "Clips: Lea Michele Plays 'Who'd You Rather?'",
+      "ShortDesc": "The actresses has some tough decisions to make in a fun game of “Who'd You Rather?”",
+      "Type": "segment",
+      "Media": {
+        "Id": 29970,
+        "Name": "The Ellen DeGeneres Show"
+      },
+      "class":"NULL",
+      "Season": {
+        "Id": 68941,
+        "Name": "Season 14",
+        "Number": 14
+      },
+      "Episode": 15,
+      "Images": [
+        {
+          "Type": "thumbnail",
+          "Url": "http://images2.9c9media.com/image_asset/2016_9_26_a9b65040-6650-0134-0101-10604ba4c9b1_png_1920x1080.jpg",
+          "Width": 1920,
+          "Height": 1080
+        }
+      ],
+      "Authentication": {
+        "Required": false,
+        "Resources": null
+      }
+    }
+  ],
+  "ItemsType": "Content"
+}

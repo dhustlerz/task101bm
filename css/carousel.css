@@ -1,0 +1,197 @@
+.carousel-belltaskcarousel .carousel-control {
+  width: 3%;
+  height:40%;
+  background-image: none;
+  background-color: #feb709;
+  top: 30%;
+  font-size: 12px;
+}
+.carousel-control .glyphicon-menu-left, 
+.carousel-control .glyphicon-menu-right, 
+.carousel-control .icon-next, 
+.carousel-control .icon-prev {
+  top: 50%;
+  z-index: 5;
+  display: inline-block;
+  height: 30px;
+  margin-top: -10px;
+  font-size: 20px;
+}
+.carousel-belltaskcarousel .carousel-control:hover {
+  background-color: #3b5998 !important;
+}
+.carousel-belltaskcarousel .carousel-control:active {
+  background-color: #3b5998;
+}
+.carousel-belltaskcarousel .carousel-control.left {
+  margin-left: 15px;
+  border-radius: 10px/100px;
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+}
+.carousel-belltaskcarousel .carousel-control.right {
+  margin-right: 15px;
+  border-radius: 10px/100px;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+}
+.carousel-belltaskcarousel .cloneditem-1,
+.carousel-belltaskcarousel .cloneditem-2,
+.carousel-belltaskcarousel .cloneditem-3 {
+  display: none;
+}
+@media all and (min-width: 768px) {
+  .carousel-belltaskcarousel .carousel-inner > .active.left,
+  .carousel-belltaskcarousel .carousel-inner > .prev {
+    left: -50%;
+  }
+  .carousel-belltaskcarousel .carousel-inner > .active.right,
+  .carousel-belltaskcarousel .carousel-inner > .next {
+    left: 50%;
+  }
+  .carousel-belltaskcarousel .carousel-inner > .left,
+  .carousel-belltaskcarousel .carousel-inner > .prev.right,
+  .carousel-belltaskcarousel .carousel-inner > .active {
+    left: 0;
+  }
+  .carousel-belltaskcarousel .carousel-inner .cloneditem-1 {
+    display: block;
+  }
+  
+}
+@media all and (min-width: 768px) and (transform-3d), all and (min-width: 768px) and (-webkit-transform-3d) {
+  .carousel-belltaskcarousel .carousel-inner > .item.active.right,
+  .carousel-belltaskcarousel .carousel-inner > .item.next {
+    -webkit-transform: translate3d(50%, 0, 0);
+            transform: translate3d(50%, 0, 0);
+    left: 0;
+  }
+  .carousel-belltaskcarousel .carousel-inner > .item.active.left,
+  .carousel-belltaskcarousel .carousel-inner > .item.prev {
+    -webkit-transform: translate3d(-50%, 0, 0);
+            transform: translate3d(-50%, 0, 0);
+    left: 0;
+  }
+  .carousel-belltaskcarousel .carousel-inner > .item.left,
+  .carousel-belltaskcarousel .carousel-inner > .item.prev.right,
+  .carousel-belltaskcarousel .carousel-inner > .item.active {
+    -webkit-transform: translate3d(0, 0, 0);
+            transform: translate3d(0, 0, 0);
+    left: 0;
+  }
+}
+@media all and (min-width: 992px) {
+  
+  .carousel-belltaskcarousel .carousel-inner > .active.left,
+  .carousel-belltaskcarousel .carousel-inner > .prev {
+    left: -25%;
+  }
+  .carousel-belltaskcarousel .carousel-inner > .active.right,
+  .carousel-belltaskcarousel .carousel-inner > .next {
+    left: 25%;
+  }
+  .carousel-belltaskcarousel .carousel-inner > .left,
+  .carousel-belltaskcarousel .carousel-inner > .prev.right,
+  .carousel-belltaskcarousel .carousel-inner > .active {
+    left: 0;
+  }
+  .carousel-belltaskcarousel .carousel-inner .cloneditem-2,
+  .carousel-belltaskcarousel .carousel-inner .cloneditem-3 {
+    display: block;
+  }
+  
+}
+@media all and (min-width: 992px) and (transform-3d), all and (min-width: 992px) and (-webkit-transform-3d) {
+  .carousel-belltaskcarousel .carousel-inner > .item.active.right,
+  .carousel-belltaskcarousel .carousel-inner > .item.next {
+    -webkit-transform: translate3d(25%, 0, 0);
+            transform: translate3d(25%, 0, 0);
+    left: 0;
+  }
+  .carousel-belltaskcarousel .carousel-inner > .item.active.left,
+  .carousel-belltaskcarousel .carousel-inner > .item.prev {
+    -webkit-transform: translate3d(-25%, 0, 0);
+            transform: translate3d(-25%, 0, 0);
+    left: 0;
+  }
+  .carousel-belltaskcarousel .carousel-inner > .item.left,
+  .carousel-belltaskcarousel .carousel-inner > .item.prev.right,
+  .carousel-belltaskcarousel .carousel-inner > .item.active {
+    -webkit-transform: translate3d(0, 0, 0);
+            transform: translate3d(0, 0, 0);
+    left: 0;
+  }
+}
+
+
+.carousel-belltaskcarousel .carousel-caption {
+  position: absolute;
+  right: 15px;
+  bottom: 0px;
+  left: 15px;
+  z-index: 10;
+  padding-top: 10px;
+  padding-bottom: 0px;
+  color: #fff;
+  padding-left: 5px;
+  text-align: left;
+  background: rgba(0,0,0,0.6);
+}
+
+.carousel-belltaskcarousel .carousel-caption .play-icon{
+  position: relative;
+  vertical-align: bottom;
+  right: 15px;
+  float: left;
+  bottom: 110px;
+  left: 10px;
+  z-index: 10;
+  padding-top: 0px;
+  margin-bottom: ;
+  color: #fff;
+  padding-left: 5px;
+  text-align: left;
+}
+
+.carousel-belltaskcarousel .carousel-wrapper {
+  position: relative; 
+  left: 0; 
+  top: 0;
+}
+
+.carousel-belltaskcarousel .carousel-imgs {
+  position: relative; 
+  left: 0; 
+  top: 0;
+}
+.carousel-belltaskcarousel .crousel-play-icon {
+  position: absolute; 
+  left: 30px; 
+  top: 10px;
+
+}
+.carousel-belltaskcarousel .carousel-caption .header {
+  font-size: 10px;
+  font-weight: 500;
+}
+.carousel-belltaskcarousel .carousel-caption .footer {
+  font-size: 10px;
+}
+.carousel-belltaskcarousel .img-zoom {
+  width: 100%;
+  -webkit-transition: all .2s ease-in-out;
+  -moz-transition: all .2s ease-in-out;
+  -o-transition: all .2s ease-in-out;
+  -ms-transition: all .2s ease-in-out;
+}
+ 
+.carousel-belltaskcarousel .transition {
+  position: relative;
+  z-index: 9999;
+  height:100%;
+  overflow-y: visible;
+  -webkit-transform: scale(1.3); 
+  -moz-transform: scale(1.3);
+  -o-transform: scale(1.3);
+  transform: scale(1.3);
+}
