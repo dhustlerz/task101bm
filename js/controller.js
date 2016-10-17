@@ -4,13 +4,12 @@ myAppControllers.controller('VideoFeedAppController', ['$scope', '$http',
   function($scope, $http) {
     var jsonFileUrl = 'assets/json/videofeed.json';
     angular.element(document).ready(function() {
+      // fetching data from JSON Cideofeed
       $http.get(jsonFileUrl).success(function(data) {
         $scope.videoFeedData = data.Items;
+        // Adding images to Carousel Dynamically
         var myEl = angular.element(document.querySelector('#carousel-inner'));
         angular.forEach($scope.videoFeedData, function(value, key) {
-          if (key == 5) {
-            return false;
-          }
           if (key == 0) {
             myEl.append('<div class="item active"><div class="col-xs-12 col-sm-6 col-md-3 carousel-wrapper" style="position: relative; left: 0; top: 0;"><a href="#"><img src="' + value.Images[0].Url + '" class="img-responsive img-zoom carousel-imgs"><img class="crousel-play-icon" width="30" align="left" src="images/icons/Circle_Play.svg"></a><div class="carousel-caption text-left"><span class="header">' + value.Name + '</span></br><span class="footer"> S0' + value.Season.Number + ' E0' + value.Episode + '</span></div></div></div>');
           }
@@ -34,7 +33,6 @@ myAppControllers.controller('VideoFeedAppController', ['$scope', '$http',
               if (!itemToClone.length) {
                 itemToClone = $(this).siblings(':first');
               }
-
               // grab item, clone, add marker class, add to collection
               itemToClone.children(':first-child').clone().addClass("cloneditem-" + (i)).appendTo($(this));
             }
@@ -81,6 +79,7 @@ myAppControllers.controller('ArticleFeedAppController', ['$scope', '$http',
   function($scope, $http) {
     var jsonFileUrl = 'assets/json/articlesfeed.json';
     angular.element(document).ready(function() {
+      // Fetching data from JSON Article feed
       $http.get(jsonFileUrl).success(function(data) {
         $scope.articleFeedData = data.Items;
       }).catch(function(err) {
